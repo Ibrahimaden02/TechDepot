@@ -1,0 +1,26 @@
+.knop {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.productInfo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.categorie {
+  text-decoration: none;
+}
+
+
+.list-group-item a {
+  text-decoration: none;
+  color: black;
+}
+
